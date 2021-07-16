@@ -15,8 +15,8 @@ to continue automating the rndr process in houdini, and to practice selenium.
 
 # why not use go for this one?
 
-- because its browser automation, sounds like a not fun time in Go.
-
+- ~~because its browser automation, sounds like a not fun time in Go~~.
+Never mind we did it in Go too. 
 
 # nice to haves
 compiling javascript to binary.
